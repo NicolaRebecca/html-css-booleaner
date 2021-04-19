@@ -1,0 +1,16 @@
+*{
+    text-decoration: none;
+}
+
+.logo-up{
+   background-size: contain;
+   background-image: url(../img/pattern.png);
+    background-color:rgb(90, 193, 228);
+}
+
+.booleaner{
+   
+    margin-left: 20px;
+    width: 180px;
+    height: 90px;
+}
