@@ -8,6 +8,10 @@
     background-color:rgb(90, 193, 228);
 }
 
+.didascalia{
+    font-size: 12px;
+}
+
 .booleaner{
    
     margin-left: 20px;
@@ -15,32 +19,45 @@
     height: 90px;
 }
 
+
 .tim{
     margin-top: 20px;
 }
 
+.yellow{
+    background-color: yellow;
+}
+
 .lorem-box{
-   padding:30px;
-   text-align: left;
+   padding:10px;
+   width: 100%;
+   height: 100%;
+   display: inline-block;
+   
 }
 
 .lorem-1{
-    
-    color: white;
-    background-color: blue;
+    border: 1px solid black;
+ color: white;
+ background-color: blue;
+ 
+ }
+
+
+.lorem-2, .lorem-4 {
+ background-color: cyan;
+ 
 }
 
-.lorem-2, .lorem-4
+.testo-left, .testo-center, .testo-right
 {
-background-color: cyan;
-}
-
-#testo-left, .testo-center, .testo-right
-{
-display: inline-block;
-padding: 50px;
+width: 30%;
+height: 5%;
 margin-top: 20px;
 margin: 20px;
+display: inline-block;
+
+
 }
 
 
