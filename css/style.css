@@ -21,7 +21,6 @@
 
 .lorem-box{
    padding:30px;
-   display: inline-block;
    text-align: left;
 }
 
@@ -31,12 +30,14 @@
     background-color: blue;
 }
 
-.lorem-2, .lorem-4{
+.lorem-2, .lorem-4
+{
 background-color: cyan;
 }
 
-#testo-lorem{
-display: inline;
+#testo-left, .testo-center, .testo-right
+{
+display: inline-block;
 padding: 50px;
 margin-top: 20px;
 margin: 20px;

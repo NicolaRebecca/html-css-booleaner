@@ -2,11 +2,6 @@
     text-decoration: none;
 }
 
-.corpo-sito{
-    margin-left: 80px;
-    margin-right: 80px;
-}
-
 .logo-up{
    background-size: contain;
    background-image: url(../img/pattern.png);
@@ -20,33 +15,50 @@
     height: 90px;
 }
 
+.corpo-sito{
+margin-left: 50px;
+margin-right: 50px;}
+
 .tim{
     margin-top: 20px;
 }
 
+.yellow{
+    background-color: yellow;
+}
+
 .lorem-box{
-   padding:30px;
+   padding:10px;
+   width: 100%;
+   height: 100%;
    display: inline-block;
-   text-align: left;
 }
 
 .lorem-1{
-    
-    color: white;
-    background-color: blue;
+ color: white;
+ background-color: blue;
+ display: 
+ }
+
+
+.lorem-2, .lorem-4 {
+ background-color: cyan;
 }
 
-.lorem-2, .lorem-4{
-background-color: cyan;
-}
-
-#testo-lorem{
-display: inline;
-padding: 50px;
+.testo-left, .testo-center
+{
 margin-top: 20px;
 margin: 20px;
+display: inline-block;
 }
 
+.testo-right{
+
+margin-top: 20px;
+margin: 20px;
+display: inline-block;
+
+    }
 
 
 .interesse{
