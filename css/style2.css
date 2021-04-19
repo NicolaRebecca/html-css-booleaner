@@ -8,6 +8,10 @@
     background-color:rgb(90, 193, 228);
 }
 
+.didascalia{
+    font-size: 12px;
+}
+
 .booleaner{
    
     margin-left: 20px;
@@ -32,33 +36,33 @@ margin-right: 50px;}
    width: 100%;
    height: 100%;
    display: inline-block;
+   
 }
 
 .lorem-1{
+    border: 1px solid black;
  color: white;
  background-color: blue;
- display: 
+ 
  }
 
 
 .lorem-2, .lorem-4 {
  background-color: cyan;
+ 
 }
 
-.testo-left, .testo-center
+.testo-left, .testo-center, .testo-right
 {
+width: 30%;
+height: 5%;
 margin-top: 20px;
 margin: 20px;
 display: inline-block;
+
+
 }
 
-.testo-right{
-
-margin-top: 20px;
-margin: 20px;
-display: inline-block;
-
-    }
 
 
 .interesse{
